@@ -1,4 +1,3 @@
-# wrm-p2122
-My first repository
-.gitignore
-//github.com/klp2gtb/wrm-p2122
+
+: { https://github.com/klp2gtb/wrm-p2122 } 
+
